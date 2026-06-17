@@ -1,0 +1,8 @@
+# Senhas e chaves locais
+.env
+
+# Cache de autenticação do Spotify
+.cache
+
+# Pastas de cache do próprio Python
+__pycache__/
